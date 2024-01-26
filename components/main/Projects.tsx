@@ -19,12 +19,12 @@ const Projects = () => {
         <ProjectCard
           src="/CardImage.png"
           title="Interactive Website Cards"
-          description="i can build blog's,presentation websites,e-commerces.I will have competitive prices acording to your needs "
+          description="I can build blog's,presentation websites,e-commerces.I will have competitive prices acording to your needs "
         />
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Space Themed Website"
-          description="This an example of a space themed website ."
+          description="This an example of a space themed website The site is responsive and have no errors at all ."
         />
       </div>
     </div>
