@@ -46,8 +46,8 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          I&apos;m a Junior Web Dev,who was learning alone on his own peace for the last 2 years.
+          Now i will try to go further,to the next level.Check out for my skills
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}

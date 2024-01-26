@@ -14,7 +14,7 @@ const Projects = () => {
         <ProjectCard
           src="/NextWebsite.png"
           title="Modern Next.js Portfolio"
-          description="I just build an amazing Next.js 14 Portofoliofrom scratch,wih React Three,React Drei and framer-motion"
+          description="I just build an amazing Next.js 14 Portofolio from scratch,wih React Three,React Drei and framer-motion"
         />
         <ProjectCard
           src="/CardImage.png"
